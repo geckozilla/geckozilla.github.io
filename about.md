@@ -3,12 +3,10 @@ layout: page
 title: About
 ---
 
-Some information about you!
+Eko Priyanto
+PHP developer and day dreamer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+visit my Facebook, pls
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
