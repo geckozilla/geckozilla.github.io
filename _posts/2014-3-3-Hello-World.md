@@ -4,7 +4,7 @@ title: Pertamax gan
 ---
 
 
-PT Pertamina (Persero) menaikan harga Bahan Bakar Minyak (BBM) non subsidi di awal Juli ini. Untuk BBM non subsidi beroktan 92 atau Pertamax naik Rp 350 sedangkan untuk BBM non subsidi beroktan 95 atau Pertamax Plus naik Rp 300.
+:fu:  PT Pertamina (Persero) menaikan harga Bahan Bakar Minyak (BBM) non subsidi di awal Juli ini. :fu: Untuk BBM non subsidi beroktan 92 atau Pertamax naik Rp 350 sedangkan untuk BBM non subsidi beroktan 95 atau Pertamax Plus naik Rp 300.
 
 ![_config.yml](http://i314.photobucket.com/albums/ll425/boenes/ngakus/pertamax.jpg)
 
